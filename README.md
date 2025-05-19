@@ -30,7 +30,7 @@ Matching pastes are saved in a structured JSONL file for further analysis.
 3 . Run the Script
       '''bash
 
-      python pastebin_crawler.py
+      python crawl.py
 
 4 . The script will create two files:
     keyword_matches.jsonl — contains matching pastes in JSONL format
