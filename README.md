@@ -44,14 +44,14 @@ No additional arguments are required. The script will automatically fetch, scan,
 
 ## Sample Output
 
-![alt text][https://github.com/ratnesh134/CodeGrills_Assignment/blob/master/images/Screenshot%20from%202025-05-19%2013-58-44.png]
+![alt text] (https://github.com/ratnesh134/CodeGrills_Assignment/blob/master/images/Screenshot%20from%202025-05-19%2013-58-44.png)
 
 Each line is a JSON object for a matching paste.
 Only pastes containing at least one keyword are included.
 Screenshot (Proof of Concept)
 Below is a screenshot showing the tool running in a terminal and the generated output file:
 
-![alt text][https://github.com/ratnesh134/CodeGrills_Assignment/blob/master/images/Screenshot%20from%202025-05-19%2013-53-22.png]
+![alt text] (https://github.com/ratnesh134/CodeGrills_Assignment/blob/master/images/Screenshot%20from%202025-05-19%2013-53-22.png)
 
 
 
